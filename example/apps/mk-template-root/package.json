@@ -1,0 +1,46 @@
+{
+  "_from": "mk-template-root",
+  "_id": "mk-template-root@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-vfbTzo8OkkmooSaUXGdBTJfgTsWBj5OE99e1VanY2zPo4bElUMhU9SlXg4JPeLuPm7Nt1t0Oc8bY/h6iew8raQ==",
+  "_location": "/mk-template-root",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "mk-template-root",
+    "name": "mk-template-root",
+    "escapedName": "mk-template-root",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/mk-template-root/-/mk-template-root-1.0.2.tgz",
+  "_shasum": "930cdd7d92b3be8cd0e4951906ab932b9bb0e46a",
+  "_spec": "mk-template-root",
+  "_where": "/home/zlj/my/github/self/mk-template-root/master/example",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ziaochina/mk-template-root/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "mk-template-root",
+  "homepage": "https://github.com/ziaochina/mk-template-root#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "mk-template-root",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziaochina/mk-template-root.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}

@@ -1,8 +1,8 @@
 import { config, start, componentFactory } from 'mk-meta-engine'
 import myConfig  from './config'
 
-import mk_template_root_about from './apps/mk-template-root/apps/xr-template-root-about/index.js'
-import mk_template_root_helloWorld from './apps/mk-template-root/apps/xr-template-root-helloWorld/index.js'
+import mk_template_root_about from './apps/mk-template-root/apps/mk-template-root-about/index.js'
+import mk_template_root_helloWorld from './apps/mk-template-root/apps/mk-template-root-helloWorld/index.js'
 import mk_template_root from './apps/mk-template-root/index.js'
 
 const apps = {
