@@ -1,6 +1,6 @@
 {
   "name": "mk-template-root",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "mk-template-root",
   "main": "index.js",
   "scripts": {
